@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello world! 👋
 
-<!--
-**alfakat/alfakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Who am I?
 
-Here are some ideas to get you started:
+Data Engineer in Machine Learning
+Data Creator (Generative and Synthetic) 
+Data Privacy safeguards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 What am I up to now?
+
+💻 Working as a Data QA Engineer at Blink
+📖 I’m currently learning Data Science BA at Open Univercity 
+🌱 Passionated about data processes: it's creation (recording and generating), validation, cleaning, formatting, annotation, validation again and analysis. 
