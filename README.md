@@ -2,9 +2,9 @@
 
 🤓 Who am I?
 
-Data Engineer in Machine Learning
-Data Creator (Generative and Synthetic) 
-Data Privacy safeguards
+- Data Engineer in Machine Learning
+- Data Creator (Generative and Synthetic) 
+- Data Privacy safeguards
 
 🤓 What am I up to now?
 
