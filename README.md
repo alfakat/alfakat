@@ -4,7 +4,7 @@
 
 - Data Engineer
 - DataGen Artist
-- Data Privacy safeguards
+- Data Privacy Safeguard
 
 🤓 What am I up to now?
 
